@@ -30,7 +30,6 @@ We are using the following tech stack in order to get real time updates and comm
 * Socket.io
 * Flask Server
 * Axios
-* Renderer.js
 
 ## Current Progress ##
 
