@@ -15,7 +15,7 @@ Enter desc. here
 
 ## Design Overview ##
 
-insert pic
+![](image.png)
 
 ## Technical Details ##
 
