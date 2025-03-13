@@ -36,6 +36,11 @@ We are using the following tech stack in order to get real time updates and comm
 We currently have: 
 * Working prototype test app
 * Demo dial to display real time updates in data
+* Loading Screen
+* COM Port Settings Page
+* 4 Unique Dials
+* Dynamic slider
+* Dynamic graphs
 * Customized buttons and menu/tool bar
 * Resizable application window
 * Exit button to fix full screen issues
